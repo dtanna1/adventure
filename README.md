@@ -13,4 +13,9 @@
 
 
 
-#
+# Text Analytics Hospital reviews
+- Hospital reviews were scraped from 4 platforms - Google, Yelp, Zocdoc, Healthgrade
+- Sentiment analysis was performed for patient reviews using textblob
+- Topic modelling was explored to find topics that were most discussed in positive and negative reviews 
+- Bag of words was created for 3 key categories - Patient care, infrastructure and management.
+- Most commonly discussed topics were tracked among positive and negative reviews
